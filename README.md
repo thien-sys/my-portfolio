@@ -20,11 +20,6 @@ Feel free to play with the web demo above!
 <strong>LiveTerm with different themes</strong>
 </p>
 
-<p align="center">
-<img src="./demo/cveinnt.png" width="600"><br>
-<strong><a href="https://cveinnt.com" target=_blank>my personal website</a></strong>
-</p>
-
 ## 🚀 Ship your LiveTerm site in less than 5 minutes
 
 LiveTerm requires the `yarn` package manager. You can install `yarn` [here](https://classic.yarnpkg.com/lang/en/docs/install/).
